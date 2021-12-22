@@ -1,4 +1,4 @@
--- Ba Choi Project Q2. SQL DDL
+
 
 create table product(
 	Product_ID integer,
